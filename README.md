@@ -6,7 +6,7 @@ A simple React project showcasing courses with interactive cards and spinners, u
 
 ## 🚀 Live Demo
 
-Check out the live project on Vercel: [Add your Vercel link here](https://vercel.com/)  
+Check out the live project on Vercel: https://courses-yrh8.vercel.app/
 
 ---
 
